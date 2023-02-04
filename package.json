@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "epress": "^0.0.1-security",
+    "express": "^4.18.2",
+    "mongodb": "^5.0.0"
+  },
+  "name": "logincortezaxel",
+  "version": "1.0.0",
+  "description": "firstactivity",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelcortez2001/LoginCortezAxel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axelcortez2001/LoginCortezAxel/issues"
+  },
+  "homepage": "https://github.com/axelcortez2001/LoginCortezAxel#readme"
+}
